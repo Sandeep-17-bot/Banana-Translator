@@ -22,10 +22,12 @@ textarea{
     box-sizing: border-box;
     display: block;
     width: 100%;
-    min-height: 20vh;
+    min-height: 15vh;
     margin-top: 2rem;
     font-size: large;
     font-family: inherit;
+    font-weight: bold;
+    padding: 1rem;
 }
 button{
    
@@ -40,9 +42,12 @@ button{
 #output{
     box-sizing: border-box;
     width: 100%;
-    min-height: 10vh;
+    min-height: 15vh;
     max-height: 20vh;
     border: 1px solid black;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: large;
 }  
 footer{
     position: fixed;
