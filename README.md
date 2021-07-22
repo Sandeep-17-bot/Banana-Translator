@@ -1,5 +1,5 @@
-# Banana-Translator
-*In this translator you enter in english and it will be converted into banana language
+# Banana Translator App
+* This app is done using HTML,CSS and JS in VScode!!
 
->This app is done in Java Script
->[Try This](https://banana-fun-speak.netlify.app/)
+> # Banana Translator
+> [Try  it here ](https://banana-fun-speak.netlify.app/)
