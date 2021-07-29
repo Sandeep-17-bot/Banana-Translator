@@ -38,6 +38,7 @@ button{
     font-family: 'Kalam', cursive;
     font-size: large;
     cursor: pointer;
+    
 }
 #output{
     box-sizing: border-box;
@@ -49,11 +50,12 @@ button{
     font-weight: bold;
     font-size: large;
 }  
-footer{
-    position: fixed;
+.footer{
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
-    padding: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
     background-color: #39bd356b ;
     text-align: center;
     margin:auto;
